@@ -1,5 +1,5 @@
 
-/*** Base styles *****/
+/*** styles *****/
 *{
   box-sizing: border-box;
   margin: 0px;
@@ -38,7 +38,7 @@ p {
   padding-top: 15px;
 }
 
-.navbar-brand h1 { /* Restaurant name */
+.navbar-brand h1 { 
   color: #000;
   font-size: 1.5em;
   text-transform: uppercase;
@@ -48,6 +48,7 @@ p {
   margin-bottom: 0;
   padding-bottom: 25px;
   line-height: .75;
+
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
